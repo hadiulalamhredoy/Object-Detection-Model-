@@ -122,7 +122,7 @@ Recall: ______
 
 Final mAP: ______
 
----
+----
 
 ## 6. Challenges
 
